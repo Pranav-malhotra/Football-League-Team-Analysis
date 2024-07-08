@@ -6,13 +6,19 @@ In addition to these domestic leagues, there are also international competitions
 
 ## Summary:
 1- The data set includes information about the top 5 European football leagues from 2010-2011 to 2020-2021.
+
 2- The data frame was cleaned using different approaches and null values were replaced with zeros.
+
 3- Some basic statistics and visualizations were generated to understand the distribution of various metrics among the teams.
+
 4- The top teams in terms of offensive, defensive, and overall performance over the last 11 years were identified and compared.
+
 5- A heat map was created to visualize the ranks of each team across seasons.
 
 ## Possible conclusions based on the analysis:
 1- The distribution of metrics such as wins, goals scored, and points varies significantly among the teams.
+
 2- There are some teams that consistently perform well in all categories, while others may excel in some areas but struggle in others.
+
 3- For some leagues the rankings of teams can change significantly from season to season, as illustrated by the heat map.
-4- Further analysis and modeling may be needed to identify the factors that contribute to a team's success and predict their performance in future seasons.
+
