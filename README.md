@@ -17,11 +17,19 @@ In addition to these domestic leagues, there are also international competitions
 
 
 
-
+## Data Preparation and Cleaning 
 ![Screenshot 2024-07-20 191058](https://github.com/user-attachments/assets/c55b9ef6-ba97-4b43-a382-482dceb25bee)
 
+plotting a graph to show Number of Times Each Team Won the League
 ![Screenshot 2024-07-20 191017](https://github.com/user-attachments/assets/9c27c3c4-dd53-4a3d-9840-ffb3e629d171)
+
+
+plotting a graph to check how many different league winners a single league has had during the years this will tell us how competative a cometition is
 ![Screenshot 2024-07-20 191143](https://github.com/user-attachments/assets/a520c730-6d29-4a2f-8199-8684ae1417ac)
 
+
+Q1) Which are the top 10 teams with the best offensive performance among the league-winning teams over the last 11 years, when sorted on the basis of their offensive performance?
 ![Screenshot 2024-07-20 191123](https://github.com/user-attachments/assets/94b12782-b7e3-4fbe-8468-cc4c976b8db1)
+
+Q2) Which are the top teams with the best defensive performance among the league-winning teams over the last 11 years, when sorted on the basis of their defensive performance?
 ![Screenshot 2024-07-20 191109](https://github.com/user-attachments/assets/a7349b65-cba7-49b8-a619-e8f8c4bec908)
