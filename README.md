@@ -19,9 +19,9 @@ In addition to these domestic leagues, there are also international competitions
 
 
 ![Screenshot 2024-07-20 191058](https://github.com/user-attachments/assets/c55b9ef6-ba97-4b43-a382-482dceb25bee)
-![Screenshot 2024-07-20 191034](https://github.com/user-attachments/assets/f437079e-8285-4c87-ab98-c7b2ff355821)
+
 ![Screenshot 2024-07-20 191017](https://github.com/user-attachments/assets/9c27c3c4-dd53-4a3d-9840-ffb3e629d171)
 ![Screenshot 2024-07-20 191143](https://github.com/user-attachments/assets/a520c730-6d29-4a2f-8199-8684ae1417ac)
-![Screenshot 2024-07-20 191133](https://github.com/user-attachments/assets/0e591933-5f52-4f76-8747-2598ad24a174)
+
 ![Screenshot 2024-07-20 191123](https://github.com/user-attachments/assets/94b12782-b7e3-4fbe-8468-cc4c976b8db1)
 ![Screenshot 2024-07-20 191109](https://github.com/user-attachments/assets/a7349b65-cba7-49b8-a619-e8f8c4bec908)
