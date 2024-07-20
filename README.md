@@ -3,6 +3,7 @@
 Domestic football leagues in Europe are structured in a pyramid-like system, where teams are grouped into different tiers based on their level of skill and competitiveness. At the top of the pyramid is the first tier, also known as the top flight or the top division, which is where the best teams in the country compete against each other.
 Below the top tier, there are usually one or two lower divisions, where teams that were relegated from the top tier, as well as teams that have not yet been promoted, compete against each other. The number of teams in each division varies from country to country, but it typically ranges from 20 to 24 teams.
 In addition to these domestic leagues, there are also international competitions, such as the UEFA Champions League and the UEFA Europa League, which allow teams from different countries to compete against each other.
+![13273.jpg](attachment:13273.jpg)
 
 ## Summary:
 1- The data set includes information about the top 5 European football leagues from 2010-2011 to 2020-2021.
