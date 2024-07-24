@@ -9,11 +9,9 @@ In addition to these domestic leagues, there are also international competitions
 ## Summary:
 1- The data set includes information about the top 5 European football leagues from 2010-2011 to 2020-2021.
 
-2- The data frame was cleaned using different approaches and null values were replaced with zeros.
+2- Some basic statistics and visualizations were generated to understand the distribution of various metrics among the teams.
 
-3- Some basic statistics and visualizations were generated to understand the distribution of various metrics among the teams.
-
-4- The top teams in terms of offensive, defensive, and overall performance over the last 11 years were identified and compared.
+3- The top teams in terms of offensive, defensive, and overall performance over the last 11 years were identified and compared.
 
 
 
