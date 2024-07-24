@@ -21,7 +21,7 @@ In addition to these domestic leagues, there are also international competitions
 plotting a graph to show Number of Times Each Team Won the League
 ![Screenshot 2024-07-20 191058](https://github.com/user-attachments/assets/c55b9ef6-ba97-4b43-a382-482dceb25bee)
 
-plotting a graph to check how many different league winners a single league has had during the years this will tell us how competative a cometition is
+plotting a graph to check how many different league winners a single league has had during the years this will tell us how competative a competition is
 ![Screenshot 2024-07-20 191109](https://github.com/user-attachments/assets/a7349b65-cba7-49b8-a619-e8f8c4bec908)
 
 
