@@ -31,3 +31,37 @@ Q1) Which are the top 10 teams with the best offensive performance among the lea
 Q2) Which are the top teams with the best defensive performance among the league-winning teams over the last 11 years, when sorted on the basis of their defensive performance?
 ![Screenshot 2024-07-20 191143](https://github.com/user-attachments/assets/a520c730-6d29-4a2f-8199-8684ae1417ac)
 
+### Competitiveness Index Calculation
+```python
+# Competitiveness Index = Number of unique winners / Total seasons in the dataset for each league
+competitiveness = winner_counts.copy()
+competitiveness['competitiveness_index'] = competitiveness['squad'] / len(teams_df['season'].unique())
+competitiveness.sort_values(by='competitiveness_index', ascending=False, inplace=True)
+competitiveness.plot(kind='bar', x='competition', y='competitiveness_index',
+                     title='Competitiveness Index of Each League', color='skyblue')
+plt.ylabel('Competitiveness Index')
+plt.show()
+competitiveness
+```
+![7e880d72-076e-40ea-b7d6-daefa9dddb65](https://github.com/user-attachments/assets/66756e82-55e3-425e-bdb3-d265bfc2a33e)
+
+### Trend Analysis for Goals Scored 
+```python
+# Displaying the grouped data for verification
+goals_trend = teams_df.groupby(['season', 'competition']).agg({'goals_for': 'mean', 'goals_against': 'mean'}).reset_index()
+print(goals_trend.head())  # Check first few rows of the grouped data
+
+# Plotting Average Goals Scored per Season
+sns.lineplot(data=goals_trend, x='season', y='goals_for', hue='competition', marker='o')
+plt.title('Average Goals Scored per Season by League')
+plt.ylabel('Average Goals Scored')
+plt.xlabel('Season')
+plt.xticks(rotation=45)
+plt.legend(title='League', bbox_to_anchor=(1.05, 1), loc='upper left')
+plt.show()
+```
+![ce7f0246-5ab6-49a3-af98-bfc1b1545ead](https://github.com/user-attachments/assets/dafbd44b-02a2-4aa6-b432-06f9e1514344)
+
+
+
+
