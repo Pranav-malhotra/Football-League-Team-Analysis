@@ -43,7 +43,8 @@ plt.ylabel('Competitiveness Index')
 plt.show()
 competitiveness
 ```
-![7e880d72-076e-40ea-b7d6-daefa9dddb65](https://github.com/user-attachments/assets/66756e82-55e3-425e-bdb3-d265bfc2a33e)
+![image](https://github.com/user-attachments/assets/82bb3973-426f-4e02-86d1-5f6c30b9527a)
+
 
 ### Trend Analysis for Goals Scored 
 ```python
@@ -60,7 +61,8 @@ plt.xticks(rotation=45)
 plt.legend(title='League', bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.show()
 ```
-![ce7f0246-5ab6-49a3-af98-bfc1b1545ead](https://github.com/user-attachments/assets/dafbd44b-02a2-4aa6-b432-06f9e1514344)
+![image](https://github.com/user-attachments/assets/b2762b12-f9ad-44b3-a481-2e8f70a356e4)
+
 
 
 
